@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Time trying to recreate a plot from [FiveThirtyEight](https://fivethirtyeight.com/)
+title: First Time trying to recreate a plot
 
 
 ---
@@ -8,6 +8,7 @@ title: First Time trying to recreate a plot from [FiveThirtyEight](https://fivet
 ### Looking into this plot: 
 
 ![Plot from fivethirtyeight](https://fivethirtyeight.com/wp-content/uploads/2017/09/mehtahickey-inconvenient-0830-1.png)
+[Image from FiveThirtyEight](https://fivethirtyeight.com/)
 
 
 ### I created this:
