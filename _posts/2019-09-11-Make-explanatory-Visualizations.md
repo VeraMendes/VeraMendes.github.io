@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Time trying to recreate a plot
+title: First Time trying to recreate a plot from a website
 
 
 ---
