@@ -15,4 +15,4 @@ title: First Time trying to recreate a plot
 
 ![My plot](img/plot%20recreation.png)
 
-### Not too bad for my first plotting experience trying new tools!I hope to be able to do much better soon. 
+### Not too bad for my first plotting experience trying new tools! I hope to be able to do much better soon. 
