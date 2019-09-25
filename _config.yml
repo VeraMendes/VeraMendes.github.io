@@ -15,6 +15,7 @@ description: My Journey into Data Science
 
 # baseurl should be an empty string
 baseurl: "https://veramendes.github.io/"
+production_url: "https://veramendes.github.io/"
 
 # --- Navigation bar options --- #
 
