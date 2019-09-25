@@ -14,7 +14,7 @@ title: First Time trying to recreate a plot
 ### I created this:
 
 ![My plot](https://github.com/VeraMendes/VeraMendes.github.io/blob/master/img/plot%20recreation.png)
-![My plot](https://github.com/VeraMendes/VeraMendes.github.io/blob/master/img/plot.png)
+![My plot](https://raw.github.com/VeraMendes/VeraMendes.github.io/blob/master/img/plot.png)
 ![My plot](img/plot.png)
 
 
