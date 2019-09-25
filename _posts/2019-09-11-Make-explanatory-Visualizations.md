@@ -14,4 +14,4 @@ title: First Time trying to recreate a plot from [FiveThirtyEight](https://fivet
 
 ![My plot](https://github.com/VeraMendes/VeraMendes.github.io/blob/master/img/plot%20recreation.png)
 
-###Not too bad for my first plotting experience trying new tools!I hope to be able to do much better soon. 
+### Not too bad for my first plotting experience trying new tools!I hope to be able to do much better soon. 
