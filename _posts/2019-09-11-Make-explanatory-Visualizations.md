@@ -17,6 +17,7 @@ title: First Time trying to recreate a plot from a website
 ![My plot](https://github.com/VeraMendes/VeraMendes.github.io/blob/master/img/plot.png)
 ![My plot](https://raw.github.com/VeraMendes/VeraMendes.github.io/blob/master/img/plot.png)
 ![My plot](img/plot.png)
+![My plot](/img/plot.png)
 
 
 ### Not too bad for my first plotting experience trying new tools! I hope to be able to do much better soon. 
