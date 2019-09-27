@@ -12,9 +12,6 @@ Considering the age of the patient, how many times she has given birth, baby del
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 ![](/img/age.png) 
 ![](/img/delivery_number.png)
