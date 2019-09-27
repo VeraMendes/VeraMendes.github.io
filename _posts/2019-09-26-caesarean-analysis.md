@@ -10,9 +10,6 @@ Some factors may generate questions when the pregnant woman and medical team are
 How certain aspects may influence this decision?
 Considering the age of the patient, how many times she has given birth, baby delivery time (premature, timely, latecomer), mother’s blood pressure (low, normal, high) and any associated heart problems. Let’s investigate some statistics:
 
-<br/>
-<br/>
-
 ![](/img/age.png) 
 ![](/img/delivery_number.png)
 ![](/img/delivery_time.png)
