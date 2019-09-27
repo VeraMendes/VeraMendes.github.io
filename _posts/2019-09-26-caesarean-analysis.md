@@ -11,6 +11,7 @@ Some factors may generate questions when the pregnant woman and medical team are
 How certain aspects may influence this decision?
 Considering the age of the patient, how many times she has given birth, baby delivery time (premature, timely, latecomer), mother’s blood pressure (low, normal, high) and any associated heart problems. Let’s investigate some statistics:
 
+![](/img/age.png) ![](/img/delivery_number.png)
 
 Looking at the graphs, we can take some information: 
 Age, blood pressure, heart problems and delivery time are factors being considered for the decision of whether to proceed with a caesarean section.  
