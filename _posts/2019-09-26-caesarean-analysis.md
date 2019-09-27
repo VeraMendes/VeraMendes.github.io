@@ -3,10 +3,7 @@ layout: post
 title: Caesarean or not caesarean? Which factors to consider?
 
 ---
-<div>
-   <img align="left" src="/img/pregnant.jpg">
-   [Image from Pexels](https://images.pexels.com/photos/590496/pexels-photo-590496.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)  
-</div>
+<img align="left" src="/img/pregnant.jpg">
 
 <br>
 <br>
@@ -21,6 +18,9 @@ Considering the age of the patient, how many times she has given birth, baby del
 <br>
 <br>
 <br>
+
+[Image from Pexels](https://images.pexels.com/photos/590496/pexels-photo-590496.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)  
+
 
 ![](/img/age.png) 
 ![](/img/delivery_number.png)
