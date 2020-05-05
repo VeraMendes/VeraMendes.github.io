@@ -22,6 +22,7 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Projects: "projects"
   Resources & Projects:
     - School: "https://lambdaschool.com/"
     - DS course: "https://learn.lambdaschool.com/course/ds"
