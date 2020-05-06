@@ -13,8 +13,7 @@ On the application you can use a search bar, click-through categories, or the im
 
 <a href="https://play.google.com/store/apps/details?id=com.thetrashpanda.twa" target="_blank">Progressive Web Application on Google store</a> | <a href="https://thetrashpanda.com" target="_blank">The Trash Panda website</a>
 
-<a href="https://www.youtube.com/watch?v=kB3NLykXT6A&feature=youtu.be" target="_blank">The Trash Panda app demo</a>
-
+**The Trash Panda app demo**
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/kB3NLykXT6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -22,7 +21,7 @@ On the application you can use a search bar, click-through categories, or the im
 
 A simple Back-end Flask API to suggest spotify songs in the Spotify Song Suggester app based on a track_id chosen by the user or a list of favorite songs. The API utilizes the Spotify Audio Features dataset, uploaded to Kaggle joined with webscraped genre. A KNN model that utilizes Natural Language Processing was integrated into the Flask app.
 
-<a href="https://github.com/Build-Week-Spotify-Song-Suggester-1/Data-science" target="_blank">GitHub DS API repository</a>
+<a href="https://github.com/Build-Week-Spotify-Song-Suggester-1/Data-science" target="_blank">GitHub DS API repository</a> |
 
 
 ## MediZen
