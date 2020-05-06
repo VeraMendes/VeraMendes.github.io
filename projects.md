@@ -14,7 +14,7 @@ On the application you can use a search bar, click-through categories, or the im
 **The Trash Panda app demo** 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/YbEzwob7PLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<br />
 
 ## Spotify Song Suggester ![](/img/Capture2.PNG)
 
@@ -22,7 +22,7 @@ A simple Back-end Flask API to suggest spotify songs in the Spotify Song Suggest
 
 <a href="https://github.com/Build-Week-Spotify-Song-Suggester-1/Data-science" target="_blank">GitHub DS API repository</a> |
 
-
+<br />
 
 ## MediZen ![](/img/Capture3.PNG)
 
@@ -30,7 +30,7 @@ A simple back-end Flask API that utilizes Natural Language Processing to provide
 
 <a href="https://github.com/VeraMendes/medizen_ds_api" target="_blank">GitHub DS API repository</a> |
 
-
+<br />
 
 ## Twitoff ![](/img/Capture4.PNG)
 
@@ -38,7 +38,7 @@ A toy app that consumes data from Twitter API. The app receives a tweet, and uti
 
 <a href="https://github.com/VeraMendes/veramendes-twitoff" target="_blank">GitHub repository</a> | <a href="https://veramendes-twitoff.herokuapp.com/" target="_blank">Flask Web Application</a>
 
-
+<br />
 
 ## Life expectancy: how Past trends influences the Future? ![](/img/Capture5.PNG)
 
