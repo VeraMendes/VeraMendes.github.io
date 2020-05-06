@@ -24,6 +24,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Resources:
+    <a href="https://lambdaschool.com/" target="_blank">world</a>
     - School: "https://lambdaschool.com/"
     - Data Science curriculum: "https://learn.lambdaschool.com/course/ds"
     # - The Trash Panda Project: "http://thetrashpanda.com/"
