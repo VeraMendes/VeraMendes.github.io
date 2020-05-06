@@ -4,7 +4,7 @@
 title: My Portfolio
 
 # Short description of your site
-description: My Journey into Data Science
+description: My Journey into Data Science...learning, adapting, changing & ready to apply in a new challenge!
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -23,9 +23,9 @@ baseurl: ""
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
-  Resources:
-    - School: "https://lambdaschool.com/"
-    - Data Science curriculum: "https://learn.lambdaschool.com/course/ds"
+  # Resources:
+  #   - School: "https://lambdaschool.com/"
+  #   - Data Science curriculum: "https://learn.lambdaschool.com/course/ds"
     # - The Trash Panda Project: "http://thetrashpanda.com/"
     # - Twitoff Project: "https://veramendes-twitoff.herokuapp.com/"
     # - Life Expectancy Project: "https://life-expectancy-project.herokuapp.com/"
