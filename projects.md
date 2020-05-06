@@ -28,7 +28,7 @@ A simple Back-end Flask API to suggest spotify songs in the Spotify Song Suggest
 
 A simple back-end Flask API that utilizes Natural Language Processing to provide recommended cannabis strains in the MediZen app based on desired effects.
 
-<a href="https://github.com/VeraMendes/medizen_ds_api" target="_blank">GitHub DS API repository</a>
+<a href="https://github.com/VeraMendes/medizen_ds_api" target="_blank">GitHub DS API repository</a> |
 
 
 ## Twitoff
