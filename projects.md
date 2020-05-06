@@ -10,6 +10,8 @@ This app applies image recognition AI,training an Artificial Neural Network to i
 
 [GitHub DS repository](https://github.com/VeraMendes/trashpanda-ds)
 
+<a href="https://github.com/VeraMendes/trashpanda-ds/" target="_blank">GitHub DS repository</a>
+
 [GitHub DS API repository](https://github.com/VeraMendes/trashpanda-ds-api)
 
 [Progressive Web Application on Google store](https://play.google.com/store/apps/details?id=com.thetrashpanda.twa)
