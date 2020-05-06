@@ -40,7 +40,7 @@ A toy app that consumes data from Twitter API. The app receives a tweet, and uti
 
 
 
-# Life expectancy: how Past trends influences the Future? ![](/img/Capture5.PNG)
+# Life expectancy: how Past trends influence the Future? ![](/img/Capture5.PNG)
 
 A data analysis on life expectancy based on past trends applying and investigating different Machine Learning models. Results were communicated via a Blog Post and a Dash Plotly Web application.
 
