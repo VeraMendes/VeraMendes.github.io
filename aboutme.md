@@ -9,12 +9,7 @@ title: About me
 
 ![](/img/iceland.jpg)
 
-**I am a citizen of the World who loves travelling and exploring other cultures and their history.**
-**I have many hobbies including cooking, practising yoga (recently I certified as Yoga instructor), listening to music, hiking, swimming, watching TV shows and movies.**
-
-![](/img/yoga.jpg)
-
-**I’m now a Junior Data Scientist currently finishing up my studies and working at Lambda School.**
+**At the moment, I’m a Junior Data Scientist currently finishing up my studies and working at Lambda School.**
 
 **At the moment, in Lambda School, I support the learning and professional growth of Lambda school students mentoring, resourcing and being a leader for a group of 6 Team Leads and around 50 students while still a student working in projects, endorsement and deepening my knowledge in Data Science.**
 
@@ -26,3 +21,8 @@ title: About me
 **When I first heard about Data Science, my curiosity started, suddenly I thought I could finally deepen my knowledge in statistics and still contribute to a better World. Data Science felt like magic, as if I could gain superpowers. A year ago, I moved to San Francisco, California. Adapting was the word that ruled my life, and with adaptation comes change so I decided to take on my interest in Data Science and start a new career. It was the best decision I took and am hoping to enter a new World of work very soon.**
 
 ![](/img/climb.jpg)
+
+**I am a citizen of the World who loves travelling and exploring other cultures and their history.**
+**Apart of Data Science, I have many hobbies including cooking, practising yoga (recently I certified as Yoga instructor), listening to music, hiking, swimming, watching TV shows and movies.**
+
+![](/img/yoga.jpg)
