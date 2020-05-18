@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My Portfolio
+title: Welcome to my Data World!
 
 # Short description of your site
 description: My Journey into Data Science...learning, adapting, developing, training & always ready to embrace a new challenge!
@@ -45,13 +45,13 @@ avatar: "/img/profile.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#669CD3"
+navbar-col: "#2962FF"
 navbar-text-col: "#000000"
 navbar-children-col: "#F5F5F5"
-page-col: "#ADD8E6"
+page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#669CD3"
+footer-col: "#2962FF"
 footer-text-col: "#404040"
 footer-link-col: "#404040"
 
