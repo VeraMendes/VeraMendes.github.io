@@ -5,7 +5,7 @@ image: img/trash_panda2.PNG
 ---
 
 From all the projects I worked on as a Data Scientist, The Trash Panda is the project I feel more passionate about.
-The Trash Panda was a project idea that was submitted by one of my colleagues in the Data Science program, <a href="https://github.com/Tclack88" target="_blank">Trevor</a>. When I initially saw the project proposal, I found it great, even though ambitious, and decided that I would like to be part of it.
+The Trash Panda was a project idea that was submitted by one of my colleagues in the Data Science program, <a href="https://tclack88.github.io" target="_blank">Trevor</a>. When I initially saw the project proposal, I found it great, even though ambitious, and decided that I would like to be part of it.
 
 ![](img/trash_panda.PNG)
 
