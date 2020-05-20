@@ -787,3 +787,7 @@ pre {
   font-style: italic;
   font-size: 16px;
 }
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+  margin-right: 48px !important;
+  margin-left: 48px !important;
+}
