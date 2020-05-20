@@ -24,7 +24,7 @@ What was my role in this application? How did I fit in this team?
 Our <a href="https://thetrashpanda.com/splash/team" target="_blank">team</a> consists of two UX designers, fours Web developers and four data scientists.   
 As a Data Scientist, I focused on the image recognition side of this application. The Data Science goal was to be able to train an AI image recognition model that could identify different classes of objects.
 
-Inittialy, we worked on an auto-annotation tool that could help us to pre-process the images. 
+Inittialy, we worked on a pipeline auto-annotation tool that helped us pre-processing the images. 
 The tool was able to: 
 1. rename the images based on md5sum, avoiding duplicates
 2. resize the images to occupy a resonable space in memory
@@ -33,7 +33,7 @@ The tool was able to:
 5. automate bounding boxes to identify the object
 6. add background to images with no background
 
-I was responsible for the first two points of this tool, <a href="https://tclack88.github.io" target="_blank">Trevor</a> took care of points 3 & 5, <a href="https://www.gamesbytim.com/p/home.html" target="_blank">Tim</a> took care of point 6 and implementing the downloader and <a href="https://tobias.fyi/" target="_blank">Tobias</a> worked on point 4 and the API.   
+I was responsible for the first two points of this tool, <a href="https://tclack88.github.io" target="_blank">Trevor</a> took care of points 3 & 5, <a href="https://www.gamesbytim.com/p/home.html" target="_blank">Tim</a> took care of point 6 and implementing the image downloader and <a href="https://tobias.fyi/" target="_blank">Tobias</a> worked on point 4 and the API.   
 Then we collected images in various way from the web, each of us had around 17 classes and 1K+ images per class.  
 We passed the images through the auto-annotation tool and then adjusted mannualy with *labelImg*.  
 The dataset was saved in an S3 bucket on AWS and then using an AWS EC2 instance we runned our images though an ANN model using YOLO and darknet framework.  
