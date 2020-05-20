@@ -40,7 +40,7 @@ The dataset was saved in an S3 bucket on AWS and then using an AWS EC2 instance 
 Our weights reached a total  average precision of 54.71% within 2.5 days, breaking down into classes, there are some classes with a lower average precision due to the variety of forms and colors but some other classes had great average precision such as ~95%.  
 
 Our project was presented in the cohort and was selected to be presented school wide on a Lambda School version of the Shark Tank:  
-<iframe width="640" height="360" src="https://www.youtube.com/embed/7g_kUKm5QIY?start=1365" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/7g_kUKm5QIY?start=1365" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
