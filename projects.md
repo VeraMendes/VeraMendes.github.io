@@ -12,7 +12,7 @@ On the application you can use a search bar, click-through categories, or the im
 <a href="https://github.com/VeraMendes/trashpanda-ds/" target="_blank">GitHub DS repository</a> | <a href="https://github.com/VeraMendes/trashpanda-ds-api" target="_blank">GitHub DS API repository</a> | <a href="https://play.google.com/store/apps/details?id=com.thetrashpanda.twa" target="_blank">Progressive Web Application on Google store</a> | <a href="https://thetrashpanda.com" target="_blank">The Trash Panda website</a>
 
 ### **The Trash Panda app demo** 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/YbEzwob7PLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/YbEzwob7PLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
