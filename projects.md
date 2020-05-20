@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-# The Trash Panda ![](/img/Capture1.PNG)
+# The Trash Panda
 
 This app applies AI image recognition,training an Artificial Neural Network to identify recyclable materials and other waste objects.
 
@@ -16,7 +16,7 @@ On the application you can use a search bar, click-through categories, or the im
 
 
 
-# Spotify Song Suggester ![](/img/Capture2.PNG)
+# Spotify Song Suggester
 
 Back-end Flask API to suggest spotify songs in the Spotify Song Suggester app based on a track_id chosen by the user or a list of favorite songs. The API utilizes the Spotify Audio Features dataset, uploaded to Kaggle joined with webscraped genre. A KNN model that utilizes Natural Language Processing was integrated into the Flask app.
 
@@ -24,7 +24,7 @@ Back-end Flask API to suggest spotify songs in the Spotify Song Suggester app ba
 
 
 
-# MediZen ![](/img/Capture3.PNG)
+# MediZen
 
 Back-end Flask API that utilizes Natural Language Processing to provide recommended cannabis strains in the MediZen app based on desired effects.
 
@@ -32,7 +32,7 @@ Back-end Flask API that utilizes Natural Language Processing to provide recommen
 
 
 
-# Twitoff ![](/img/Capture4.PNG)
+# Twitoff
 
 App that consumes data from Twitter API. The app receives a tweet, and utilizing basilica.ai sentence embeddings, it compares between two users, who is more likely to write that specific tweet.
 
@@ -40,7 +40,7 @@ App that consumes data from Twitter API. The app receives a tweet, and utilizing
 
 
 
-# Life expectancy ![](/img/Capture5.PNG)
+# Life expectancy
 
 Data analysis on life expectancy based on past trends applying and investigating different Machine Learning models. Results were communicated via a Blog Post and a Dash Plotly Web application.
 
