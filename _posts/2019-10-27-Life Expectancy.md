@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life Expectancy
-image: https://images.unsplash.com/photo-1469204691332-56e068855403?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+image: img/life_expectancy.jpg
 ---
 
 Recently, I finished a project based on a dataset taken from [Kaggle](https://www.kaggle.com/augustus0498/life-expectancy-who).  
