@@ -7,7 +7,7 @@ image: img/trash_panda2.PNG
 From all the projects I worked on as a Data Scientist, The Trash Panda is the project I feel more passionate about.
 The Trash Panda was a project idea that was submitted by one of my colleagues in the Data Science program, Trevor. When I initially saw the project proposal, I thought maybe ambitious but a great idea, and I would like to be part of it.
 
-![](img/trash_panda.PNG)
+![](/img/trash_panda.PNG)
 
 Recycling is not as straightfoward as we wish, The Trash Panda main objective is to make this task easier and quicker.
 
