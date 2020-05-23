@@ -3,7 +3,7 @@ layout: post
 title: Caesarean or not caesarean? Which factors to consider?
 
 ---
-<a href="https://images.pexels.com/photos/590496/pexels-photo-590496.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260">Image from Pexels</a> 
+<a href="https://images.pexels.com/photos/590496/pexels-photo-590496.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260">Image from Pexels</a>  
 <img style="margin:10px" align="left" src="/img/pregnant.jpg">
 
 Some factors may generate questions when the pregnant woman and medical team are considering the option of vaginal birth or caesarean section. 
