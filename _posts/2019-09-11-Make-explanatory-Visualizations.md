@@ -9,7 +9,7 @@ title: First Time trying to recreate a plot from a website
 
 ![Plot from fivethirtyeight](https://fivethirtyeight.com/wp-content/uploads/2017/09/mehtahickey-inconvenient-0830-1.png)
   
-<a href="https://fivethirtyeight.com/">Image from FiveThirtyEight</a>
+<a href="https://fivethirtyeight.com/" target="_blank">Image from FiveThirtyEight</a>
 
 
 
