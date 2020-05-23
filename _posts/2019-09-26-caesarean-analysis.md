@@ -3,7 +3,7 @@ layout: post
 title: Caesarean or not caesarean? Which factors to consider?
 
 ---
-<a href="https://images.pexels.com/photos/590496/pexels-photo-590496.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260">Image from Pexels</a>  
+<a href="https://images.pexels.com/photos/590496/pexels-photo-590496.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260" target="_blank">Image from Pexels</a>  
 <img style="margin:10px" align="left" src="/img/pregnant.jpg">
 
 Some factors may generate questions when the pregnant woman and medical team are considering the option of vaginal birth or caesarean section. 
@@ -27,4 +27,4 @@ Age, blood pressure, heart problems and delivery time are factors being consider
 Some more statistic results tell us that out of these five factors; blood pressure and heart problems are the ones that are more likely associated with caesarean delivery.  
 
 
-This data was taken from <a href="https://archive.ics.uci.edu/ml/datasets/Caesarian+Section+Classification+Dataset">UCI Machine Learning Repository - Caesarian Section Classification Dataset Data Set</a>, cleaned, explored and graphed using Python 3.
+This data was taken from <a href="https://archive.ics.uci.edu/ml/datasets/Caesarian+Section+Classification+Dataset" target="_blank">UCI Machine Learning Repository - Caesarian Section Classification Dataset Data Set</a>, cleaned, explored and graphed using Python 3.
