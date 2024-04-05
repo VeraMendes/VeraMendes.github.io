@@ -5,13 +5,14 @@ title: About me
 
 ## my history...
 
-**My name is Vera, I embarked in a new adventure into the Data Science World and would like to share this experience with you.**
+**My name is Vera, I embarked in a new adventure into the Data Science World in 2019 and would like to share this experience with you.**
 
 ![](/img/iceland.jpg)
 
-**At the moment, I’m a Junior Data Scientist currently finishing up my studies and working at Lambda School.**
+**At the moment, I’m a Data Scientist currently working at Pluralsight.**
 
-**In Lambda School, I support the learning and professional growth of Lambda school students mentoring, resourcing and being a leader for a group of 6 Team Leads and around 50 students while still a student working in projects and deepening my knowledge in Data Science.**
+**I'm an accomplished and results-driven Data Scientist with a proven track record of leveraging data- driven insights to drive business outcomes. Demonstrated success in developing and implementing advanced analytics models, leading cross-sectional teams, and bridging the gap between technical and non-technical stakeholders.
+In Pluralsight I'm part of the Data Science Decision Support team helping driving business solutions using advanced analytics models, in ZoomInfo I was part of the Business Intelligence team supporting mostly the Customer Success, Finance and HR teams and in Bloomtech Institute, I supported the learning and professional growth of Lambda school students mentoring, resourcing and being a leader for a group of 6 Team Leads and around 50 students while still a student working in projects and deepening my knowledge in Data Science.**
 
 **But let me tell you more about my life before Data Science. I was born in Portugal and since I was a child, was always fascinated about learning. Physics, statistics, informatics and biology were always on my top School subjects and going to School was a pleasure. When choosing my career, I ended up going to a Radiology course, because I could help people but still be connected with technology. After finishing my studies as BSc in Radiology, I decided to enter a new adventure and moved to London, England, where I lived for the past decade. I worked as MRI Radiographer and I pride myself in being a good professional, promoting continuous improvement in service delivery, quality and patient care. While I worked in Healthcare I’ve progressed from a Junior to a Senior post, and in one of my latest roles, I worked as MRI Superintendent Radiographer managing a team of healthcare professionals.**
 **Being happy helping people, something was missing, initially I thought maybe I needed to take on some new hobbies and it is when yoga and swimming entered my life, but then I realized that I was stuck in my career, this is when I thought I could change my life and contribute to the World in a different way.**
