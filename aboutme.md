@@ -15,7 +15,7 @@ title: About me
 In Pluralsight I'm part of the Data Science Decision Support team helping driving business solutions using advanced analytics models, in ZoomInfo I was part of the Business Intelligence team supporting mostly the Customer Success, Finance and HR teams and in Bloomtech Institute, I supported the learning and professional growth of Lambda school students mentoring, resourcing and being a leader for a group of 6 Team Leads and around 50 students while still a student working in projects and deepening my knowledge in Data Science.**
 
 **But let me tell you more about my life before Data Science. I was born in Portugal and since I was a child, was always fascinated about learning. Physics, statistics, informatics and biology were always on my top School subjects and going to School was a pleasure. When choosing my career, I ended up going to a Radiology degree, because I could help people but still be connected with technology. After finishing my studies as BSc in Radiology, I decided to enter a new adventure and moved to London, England, UK where I lived for a decade. I worked as MRI Radiographer and I pride myself in being a good professional, promoting continuous improvement in service delivery, quality and patient care. While I worked in Healthcare I’ve progressed from a Junior to a Senior post, and in one of my latest roles, I worked as Superintendent MRI Radiographer managing a department and a team of healthcare professionals.**
-**Being happy helping people, something was missing, initially I thought maybe I needed to take on some new hobbies and it is when yoga and swimming entered my life, but then I realized that I was stuck in my career, this is when I thought I could change my life and contribute to the World in a different way.**
+**Being happy helping people, something was missing, initially I thought maybe I needed to take on some new hobbies and it is when yoga and swimming entered my life, but then I realized that I was stuck in my career and really needed a change in my career, this is when I thought I could contribute to the World in a different way.**
 
 ![](/img/hike.jpg)
 
@@ -24,6 +24,6 @@ In Pluralsight I'm part of the Data Science Decision Support team helping drivin
 ![](/img/climb.jpg)
 
 **I am a citizen of the World who loves travelling and exploring other cultures and their history.**
-**Apart of Data Science, I have many hobbies including cooking, practising yoga (recently I certified as Yoga instructor), listening to music, hiking, swimming, watching TV shows and movies.**
+**Apart of Data Science, I have many hobbies including enjoying time with my baby, cooking, practising yoga (recently I certified as Yoga instructor), listening to music, hiking, swimming, watching TV shows and movies.**
 
 ![](/img/yoga.jpg)
