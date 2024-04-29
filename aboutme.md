@@ -24,6 +24,6 @@ In Pluralsight I'm part of the Data Science Decision Support team helping drivin
 ![](/img/climb.jpg)
 
 **I am a citizen of the World who loves travelling and exploring other cultures and their history.**
-**Apart of Data Science, I have many hobbies including enjoying time with my baby, cooking, practising yoga (recently I certified as Yoga instructor), listening to music, hiking, swimming, watching TV shows and movies.**
+**In addition to my passion for Data Science, I have a diverse range of hobbies that bring balance to my life. These include cherishing moments with my baby, exploring new culinary delights in the kitchen, honing my yoga practice (I recently obtained certification as a Yoga instructor), immersing myself in music, embarking on hikes to connect with nature, indulging in refreshing swims, and unwinding with captivating TV shows and movies.**
 
 ![](/img/yoga.jpg)
