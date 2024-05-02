@@ -9,7 +9,7 @@ title: About me
 
 ![](/img/iceland.jpg)
 
-**At the moment, I’m a Data Scientist currently working at Pluralsight.**
+**At the moment, I’m a Data Scientist currently working at Pluralsight, an Education Tech company.**
 
 **I'm an accomplished and results-driven Data Scientist with a proven track record of leveraging data- driven insights to drive business outcomes with 4+ years experience in Data Analytics & Data Science and 10 years experience in Healthcare, Medical Imaging. Demonstrated success in developing and implementing advanced analytics models, leading cross-sectional teams, and bridging the gap between technical and non-technical stakeholders.
 In Pluralsight I'm part of the Data Science Decision Support team helping driving business solutions using advanced analytics models, in ZoomInfo I was part of the Business Intelligence team supporting mostly the Customer Success, Finance and HR teams and in Bloomtech Institute, I supported the learning and professional growth of Lambda school students mentoring, resourcing and being a leader for a group of 6 Team Leads and around 50 students while still a student working in projects and deepening my knowledge in Data Science.**
