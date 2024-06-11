@@ -5,7 +5,7 @@ title: Projects
 
 # The Trash Panda
 
-This app applies AI image recognition,training an Artificial Neural Network to identify recyclable materials and other waste objects.
+This app applies Artificial Intelligence image recognition,training an Artificial Neural Network to identify recyclable materials and other waste objects.
 
 On the application you can use a search bar, click-through categories, or the image recognition AI to identify and properly recycle your trash item. Disposal information will be provide based on user location.  
 
