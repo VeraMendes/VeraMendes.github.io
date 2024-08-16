@@ -20,7 +20,7 @@ Previously in Pluralsight I was part of the Data Science Decision Support team h
 
 ![](/img/hike.jpg)
 
-**When I first heard about Data Science, my curiosity started, suddenly I thought I could finally deepen my knowledge in statistics and still contribute to a better World. Data Science felt like magic, as if I gained superpowers. A year ago, I moved to San Francisco, California. Adapting was the word that ruled my life, and with adaptation comes change so I decided to pursue my interest in Data Science and start a new career. It was the best decision I took and I entered a new World of work.**
+**When I first heard about Data Science, my curiosity started, suddenly I thought I could finally deepen my knowledge in statistics and still contribute to a better World. Data Science felt like magic, as if I gained superpowers. In 2019, I moved to San Francisco, California. Adapting was the word that ruled my life, and with adaptation come change so I decided to pursue my interest in Data Science and start a new career. It was the best decision I took and I entered a new World of work.**
 
 ![](/img/climb.jpg)
 
